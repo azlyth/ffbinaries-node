@@ -39,7 +39,7 @@
   "dependencies": {
     "async": "^2.5.0",
     "clarg": "0.0.3",
-    "extract-zip": "^1.6.5",
+    "extract-zip": "azlyth/extract-zip#fb82810",
     "fs-extra": "^4.0.2",
     "lodash": "^4.17.4",
     "request": "^2.83.0"
